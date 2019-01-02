@@ -1,10 +1,9 @@
-# IS 452AO 2019 Syllabus
+# IS 452AG/AU 2019 Syllabus
 ## Instructor information
 
-* Instructor: Elizabeth Wickes
-* Office: 329 Information Sciences Building
-* Email: wickes1@illinois.edu
-* Cell phone: look in moodle, I'm not putting this on github (do not call after 9pm)
+* Instructor: Nigel Bosch
+* Office: 4040 NCSA (National Center for Supercomputing Applications)
+* Email: pnb@illinois.edu
 
 ## Course description
 
@@ -42,9 +41,9 @@ The following are more 'educational wins' rather than formal learning goals.  Of
 
 * Regular class times: 
   * Live session attendance is a requirement for all enrolled students.  Sessions will be recorded and available across all sections.
-  * AO: 6:00 - 8:00pm Tuesdays online in BBC (a guest link will be made available for A and B sections)
-  * (Optional) Lab/office hours open to AO:  8:00-9:00pm in out BBC classroom, directly following class. This hour will be used for traditional office hours and optional lab time.  All students are welcome to remain or join us in the online class room and stay there while they work on the homework, and ask questions or have discussions with the other students and the instructor in the room. I will sometimes depart early if everyone leaves and I have transit issues, so if you plan to arrive after 8pm please email me so I know to stay.
-* Make an appointment to meet with me:
+  * 9:00am - 11:00am Wednesdays in Information Sciences room 126
+  * (Optional) Lab/office hours:  11:00am - 12:00pm in our classroom, directly following class. This hour will be used for traditional office hours and optional lab time.
+* Make an appointment to meet:
   * Appointment booking information is in the class moodle.
 
 ## Required textbooks
@@ -105,7 +104,7 @@ Policies:
 * **Regular and repeated practice will help you internalize the concepts and syntax.** I cannot stress enough that you need to start early.  Completing the homeworks should take at least an hour for an experienced programmer, but you should expect them to take between 3-5 hours depending on the content.  This means that between reading the chapter, attempting the homework, testing, and revising, you should expect to spend at least 10-15 hours a week on this class. 
 * **Look things up all the time, until you've gotten it right several times in a row.** You aren't expected to memorize a buch of rules and syntax.  Structure your notes is a usable way and look things up as you go.  Eventually you'll need to look things up less and less.
 * **Follow the 2 hour rule:** When you are working on a programming problem and have spent an hour without making any progress forward (even slow progress is fine), take at least a 30 minute break. Work on something else, take a walk, do the dishes, etc.  Then go back to the problem, and if you are still not making any progress forward after another hour, stop and email me for help.  Work on something else or go to bed.  Do not spend an entire day on a single problem ever.  I’d rather give you an extension than read that you’ve done that.  **Stop and ask for help after 2 hours of making zero progress forward**.
-* **Plan to use all your homework extensions.** There is no penalty for using them or bonus for not. I don't factor these into you grades in any way.  The policy for how they work is in a separate section.  There is a lot of homework and you have a lot going on.  Please plan on using these as you need them.
+* **Plan to use all your homework extensions.** There is no penalty for using them or bonus for not. I don't factor these into your grades in any way.  The policy for how they work is in a separate section.  There is a lot of homework and you have a lot going on.  Please plan on using these as you need them.
 * The weekly discussion forums are the place to talk about unclear points or to get help with a problem.  Don’t post the entirety of your homework answers on the discussion boards, but you can ask clarification or technical questions about them.  Chances are high that someone else has a similar problem, and the feedback can generally be much faster with the entire classes eyes rather than just the instructor and TA. 
 * **Try and stick to a limit of 2-3 hours a day of work on this class and no more.**  Don’t attempt to do everything (reading, quiz, homework) in one day. Instead, (as much as possible) pick a regular part of your day of about 30-60 minutes to work on this class. Doing this work in smaller pieces helps you retain and internalize what you’ve read and practiced. 
 * I do not require any extra readings for this class. Everything required is meant to be immediately helpful to you for your homework.  Optional readings are there in case you'd find different examples helpful.
@@ -233,7 +232,7 @@ These essays are designed to have you explore and learn more about the history o
 
 I don’t expect that you’ll be able to find scholarly published works (such as journal articles) for these essays, but I do expect that you use authoritative sources & authors.  Ask if you are unsure about any sources! The University Library can also help you navigate the research process.  We’ll talk more about this in class.
 
-Writing skill is not being graded, but these need to be written seriously and be readable.  Those new to academic writing are strongly encouraged to make use of the writing centers on campus for help.  Elizabeth is also willing to review these before submission and can give you quick feedback.
+Writing skill is not being graded, but these need to be written seriously and be readable.  Those new to academic writing are strongly encouraged to make use of the writing centers on campus for help.
 
 #### Plagiarism warning
 
