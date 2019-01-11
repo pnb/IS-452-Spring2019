@@ -41,7 +41,7 @@ The following are more 'educational wins' rather than formal learning goals.  Of
 
 * Regular class times: 
   * Live session attendance is a requirement for all enrolled students.  Sessions will be recorded and available across all sections.
-  * 9:00am - 11:00am Wednesdays in Information Sciences room 126
+  * 9:00am - 11:00am Wednesdays in Information Sciences room 24
   * (Optional) Lab/office hours:  11:00am - 12:00pm in our classroom, directly following class. This hour will be used for traditional office hours and optional lab time.
 * Make an appointment to meet:
   * Appointment booking information is in the class moodle.
