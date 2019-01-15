@@ -205,10 +205,10 @@ Including your netid in your file names is really helpful.  You will submit your
  
 ### Midterm assignment
 
-The midterm has two associated due dates:
+The midterm has two associated submissions (check the Moodle page for the actual due dates):
 
-* Midterm check in date:  Saturday October 13
-* Midterm due date:  Saturday October 27
+* Midterm check in
+* Midterm complete submission
 
 No due date extensions will be granted for either midterm due date unless you are experiencing a personal crisis.  A 10% late penalty for up to 2 days after the due date, and the assignment will be marked as 0 after that. 
 
@@ -263,11 +263,13 @@ As the due dates can be changed to match your schedule, no extentions will be gr
 
 ### Final project
 
-There are three due dates associated with the final project:
+There are three submission points associated with the final project:
 
-* Final Project Proposal date: October 20
-* Final Project Check-in: November 24
-* Final Project Due Date: December 20 (subject to change depending on when the registrar announces the final grade due date)
+* Final Project Proposal
+* Final Project Check-in
+* Final Project Due 
+
+Check the Moodle page for official due dates.
 
 No extensions for the final project will be approved, except for a personal crisis.  Extensions for the proposal and checkin are rare but will be approved on a case by case basis for situations where you are waiting on an external person for information, or there is some other delay outside of your control.  For the proposal and checkin, a 10% late penalty off the max value for the assignment will be taken each day for up to two days, and the assignment graded at 0 after that.  Final projects submitted after the 8 hour grace period will be counted at 0.
 
